@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch stringfuns",
+            "request": "launch",
+            "mainClass": "stringfuns",
+            "projectName": "java_37a98593"
+        },
+        {
+            "type": "java",
+            "name": "Launch Driver",
+            "request": "launch",
+            "mainClass": "Driver",
+            "projectName": "java_1996aef2"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java_1996aef2"
+        },
+        {
+            "type": "java",
+            "name": "Launch FantasyKingdom",
+            "request": "launch",
+            "mainClass": "FantasyKingdom",
+            "projectName": "java_1996aef2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "java_1996aef2"
+        },
+        {
+            "type": "java",
+            "name": "Launch dateandtime",
+            "request": "launch",
+            "mainClass": "dateandtime",
+            "projectName": "java_1996aef2"
+        },
+        {
+            "type": "java",
+            "name": "Launch dhuru",
+            "request": "launch",
+            "mainClass": "dhuru",
+            "projectName": "java_1996aef2"
+        },
+        {
+            "type": "java",
+            "name": "Launch inputpro",
+            "request": "launch",
+            "mainClass": "inputpro",
+            "projectName": "java_1996aef2"
+        }
+    ]
+}
