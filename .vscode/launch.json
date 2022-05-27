@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch primenum",
+            "request": "launch",
+            "mainClass": "primenum",
+            "projectName": "java_37a98593"
+        },
+        {
+            "type": "java",
             "name": "Launch stringfuns",
             "request": "launch",
             "mainClass": "stringfuns",
